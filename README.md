@@ -1,4 +1,4 @@
-Titanic Competition
+Titanic Competition - top 10%
 
 Titanic dataset for prediction of survive
 
